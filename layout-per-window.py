@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # This script keeps track of the active layout for each window.
 # Optional argument defines numeric layout index for new windows (counted from 0)
